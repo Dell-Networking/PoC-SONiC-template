@@ -1,10 +1,13 @@
 # Template repo for SONiC PoC Repos
 
----
-title: "Template repo for SONiC PoC Repos"
-author: Ben Goldstone
-date: "1 November 2022"
----
+
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](#-how-to-contribute)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Dell-Networking/PoC-SONiC-template/blob/main/LICENSE.md)
+[![GitHub issues](https://img.shields.io/github/issues/Dell-Networking/PoC-SONiC-template)](https://github.com/Dell-Networking/PoC-SONiC-template/issues)
+
+Built and maintained by [Ben Goldstone](https://github.com/benjamingoldstone/) and [Contributors](https://github.com/Dell-Networking/PoC-SONiC-template/graphs/contributors)
+
+------------------
 
 This is the template repo for Dell Enterprise SONiC Proof-of-Concept repos. Adopt this repo as you see fit to meet your needs as you build out a reference PoC repo.
 
@@ -29,7 +32,7 @@ Be sure to list requirements for building and utilizing the example PoC code her
 
 ## 👏 How to Contribute
 
-We welcome contributions to the project. Please reference the CONTRIBUTING guide for more details.
+We welcome contributions to the project. Please reference the [CONTRIBUTING](https://github.com/Dell-Networking/PoC-Index/blob/main/CONTRIBUTING.md) guide in the PoC-Index repo for more details (this guide is common across Dell Networking PoC projects).
 
 
 
